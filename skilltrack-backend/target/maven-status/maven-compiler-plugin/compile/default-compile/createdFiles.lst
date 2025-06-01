@@ -1,0 +1,5 @@
+com/reza/skilltrack/entity/Skill.class
+com/reza/skilltrack/controller/SkillController.class
+com/reza/skilltrack/SkillTrackApplication.class
+com/reza/skilltrack/service/SkillService.class
+com/reza/skilltrack/repository/SkillRepository.class

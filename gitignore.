@@ -1,0 +1,15 @@
+# Backend
+/skilltrack-backend/target/
+/skilltrack-backend/.mvn/
+*.log
+*.class
+*.iml
+
+# Frontend
+/skilltrack-frontend/node_modules/
+/skilltrack-frontend/dist/
+/skilltrack-frontend/.vite/
+
+# Global
+.DS_Store
+.env
